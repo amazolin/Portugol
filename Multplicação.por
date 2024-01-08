@@ -1,4 +1,5 @@
 algoritmo
+ //Obter a multiplicação de três números declarados
  declare a,b,c,resul numerico
  escreva "Digite o número"
  leia a 

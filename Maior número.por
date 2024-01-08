@@ -1,4 +1,5 @@
 algoritmo
+ //código para obter o maior número entre dois números
  declare a,b numerico 
  escreva "Digite um número"
  leia a 
@@ -6,7 +7,6 @@ algoritmo
  leia b
  se a > b
  entao escreva "O maior valor é ", a
- 
  senao escreva "O maior valor é "
 , b
 fim_algoritmo

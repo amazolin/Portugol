@@ -1,4 +1,5 @@
 algoritmo
+ //Obter a resposta se o número é par ou ímpar
  declare x, resul numerico
  escreva "digite um número "
  leia x

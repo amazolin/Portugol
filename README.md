@@ -1,4 +1,4 @@
-# Portugol Online
+# Portugol Online    ![img.png](img.png)
 Exercícios utilizando **Portugol Online**
 
 Este repositório contém exercícios para Portugol Online, visto a dificuldade em se encontrar conteúdo desta linguagem na internet.
