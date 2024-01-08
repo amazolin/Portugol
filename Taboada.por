@@ -1,4 +1,5 @@
 algoritmo
+	//Mostrar tabuada do número digitado
  	declare num, mult, rep numerico
  	mult <- 0
  	
